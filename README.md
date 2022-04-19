@@ -1,5 +1,5 @@
 ## XML_Erudit_To_NLM_DTD
-This repository presents an XSLT code designed to convert XML files from Erudit format to NLM DTD.
+This repository presents a Python code designed to convert XML files from Erudit format to NLM DTD through an XSLT file.
 
 # What you need first
 - The path of your folder containing xml files in Erudit format
